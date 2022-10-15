@@ -1,2 +1,2 @@
-# sudoker-flask
-Sudoker flask application
+# sudoker-client
+Sudoker client application
